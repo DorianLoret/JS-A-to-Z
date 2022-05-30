@@ -244,9 +244,6 @@ document.body.addEventListener(
 // identifie le navigateur web
 // navigator.userAgent
 
-// montrer la location dans le navigateur
-// https://developer.mozilla.org/fr/docs/Web/API/Geolocation/getCurrentPosition
-
 // var options = {
 //   enableHighAccuracy: true,
 //   timeout: 5000,

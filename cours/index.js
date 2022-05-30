@@ -155,7 +155,7 @@ boxes.forEach((box) => {
 //   false // useCapture
 // );
 
-// https://gomakethings.com/what-is-that-third-argument-on-the-vanilla-js-addeventlistener-method-and-when-do-you-need-it/
+
 // document.addEventListener('focus', function (event) {
 // 	console.log('something came into focus: ' + event.target);
 // });
